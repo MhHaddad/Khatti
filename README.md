@@ -22,7 +22,7 @@ own name.
 Now you have two options to run the application either with
 the simulator or your iPad.
 
-** Simulator:**
+**Simulator:**
 > 1. In your Xcode choose any simulator from the following
 > iOS simulators.
 > - iPad (9th generation)
