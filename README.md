@@ -5,6 +5,7 @@
 To run application Khatti on your iPad you should do the following:
 
 Install the zipped folder [khatti 9 2 13](https://github.com/MhHaddad/Khatti/blob/main/khatti%209%202%2013.zip)
+
 Unzip the folder, open the project with the extension .xcworkspace.
 
 In your mac OS, or VMWare
